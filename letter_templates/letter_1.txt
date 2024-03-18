@@ -1,0 +1,13 @@
+Hello [NAME]/[COMPANY], My name is [SENDER_NAME] and I am with [COMPANY_NAME]. We are currently have a project called [PROJECT_NAME] which is located in [PROJECT_CITY],[PROJECT_STATE] and currently in the [PHASE] phase. This project has a total of [NUM_UNITS] units and stands [NUM_STORIES] story tall.
+
+We are reaching out for a request for proposal (RFP) for the [Trade] scope.
+
+Can you please confirm/provide the following:
+1) Confirm your team performs work in the [PROJECT_CITY], [PROJECT_STATE] area
+2) Provide the contact and related contact information of your estimator
+3) Confirm labor type (non-union, union, etc.)
+
+Thank you,
+
+[SENDER_NAME]
+[SENDER_TITLE]
